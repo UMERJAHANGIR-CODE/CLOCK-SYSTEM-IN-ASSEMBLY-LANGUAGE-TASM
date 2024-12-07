@@ -15,7 +15,9 @@ after that it will appear interface of  a clock system.
 <br>
 ![Screenshot 2024-12-07 180049](https://github.com/user-attachments/assets/2072ddb7-aa5c-4698-b494-2a6abbdfe144)
 <br>
-![Screenshot 2024-12-07 180159](https://github.com/user-attachments/assets/221b3d79-6a01-40e3-b842-e873500504d8)
+set a time for a stoppage . it will ask first and you enter your time
+<br>
+![Screenshot 2024-12-07 182317](https://github.com/user-attachments/assets/cdf5bc1c-14ea-4bd6-a8ab-897c9eb23507)
 <br>
 ![Screenshot 2024-12-07 180255](https://github.com/user-attachments/assets/2b6d852f-fd31-4d09-9706-331f97a7dbb3)
 
