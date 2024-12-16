@@ -1,15 +1,15 @@
-# CLOCK-SYSTEM-IN-ASSEMBLY-LANGUAGE-TASM
-This was my semester project for course Assembly Language.
+# CLOCK-SYSTEM-IN-ASSEMBLY-LANGUAGE-TASM 8086
+<p>This was my semester project for course Assembly Language.</p>
 <br>
-It is written in tasm. You need to install both tasm and dosbox.
+<p>It is written in tasm. You need to install both tasm and dosbox.</p>
 <br>
-copy and Save these file ana_m (it have a analog code) , cdata( it have all data need in code for clock) & csc (it is a main file where ana_m and cdata import) in a tasm folder where tasm.exe, tlink.exe, etc are saved.
+<p>copy and Save these file ana_m (it have a analog code) , cdata( it have all data need in code for clock) & csc (it is a main file where ana_m and cdata import) in a tasm folder where tasm.exe, tlink.exe, etc are saved.</p>
 <br>
-open doxbox and run following commands as per your directory
+<p>open doxbox and run following commands as per your directory</p>
 <br>
 ![Screenshot 2024-12-07 180539](https://github.com/user-attachments/assets/c92f7b73-2f80-485e-885a-5d20d7a759ab)
 <br>
-after that it will appear interface of  a clock system.
+<p>after that it will appear interface of  a clock system.</p>
 <br>
 ![Screenshot 2024-12-07 180020](https://github.com/user-attachments/assets/f05f0732-5436-4cc1-9389-41703ecda7bc)
 <br>
